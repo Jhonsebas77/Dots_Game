@@ -9,4 +9,8 @@ public class Home_Screen : MonoBehaviour
     {
         SceneManager.LoadScene("Play");
     }
+    public void exitApp()
+    {
+        Application.Quit();
+    }
 }
