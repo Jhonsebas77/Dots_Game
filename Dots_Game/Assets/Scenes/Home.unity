@@ -289,7 +289,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Salir
+  m_text: Exit
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 2b34e43a7d6294ee6adf776ce1d764bf, type: 2}
   m_sharedMaterial: {fileID: 5586044753379944587, guid: 2b34e43a7d6294ee6adf776ce1d764bf,
@@ -359,7 +359,7 @@ MonoBehaviour:
   m_margin: {x: -0.000015258789, y: -1.3245857, z: -0.70469064, w: 0}
   m_textInfo:
     textComponent: {fileID: 443373660}
-    characterCount: 5
+    characterCount: 4
     spriteCount: 0
     spaceCount: 0
     wordCount: 1
@@ -790,7 +790,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Jugar
+  m_text: Play
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 2b34e43a7d6294ee6adf776ce1d764bf, type: 2}
   m_sharedMaterial: {fileID: 5586044753379944587, guid: 2b34e43a7d6294ee6adf776ce1d764bf,
@@ -860,7 +860,7 @@ MonoBehaviour:
   m_margin: {x: -0.000015258789, y: -1.3245857, z: -0.70469064, w: 0}
   m_textInfo:
     textComponent: {fileID: 1248294078}
-    characterCount: 5
+    characterCount: 4
     spriteCount: 0
     spaceCount: 0
     wordCount: 1
