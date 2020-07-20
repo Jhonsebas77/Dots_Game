@@ -7,7 +7,7 @@ public class Home_Screen : MonoBehaviour
 {
     public void goToNextScreen()
     {
-        SceneManager.LoadScene("Play");
+        SceneManager.LoadScene("02_Play");
     }
     public void exitApp()
     {
